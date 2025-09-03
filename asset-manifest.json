@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bfa7861.css",
-    "main.js": "/static/js/main.ab50a06d.js",
-    "static/js/453.ee5807c3.chunk.js": "/static/js/453.ee5807c3.chunk.js",
-    "static/media/about_alia.png": "/static/media/about_alia.b0f315171b2b9d79bacd.png",
-    "static/media/artwork6.png": "/static/media/artwork6.ec9c38ff1b591b318824.png",
-    "static/media/artwork1.png": "/static/media/artwork1.04519c450fad5b40fd26.png",
-    "static/media/artwork7.png": "/static/media/artwork7.05dbd68cc73770e4ed66.png",
-    "static/media/artwork5.png": "/static/media/artwork5.859ca665995af6d23056.png",
-    "static/media/artwork3.png": "/static/media/artwork3.41d6b044dcbe92b871ff.png",
-    "static/media/artwork4.png": "/static/media/artwork4.3bf1b706bd7535ad9f03.png",
-    "static/media/artwork2.png": "/static/media/artwork2.7f80b5496fa4ba211826.png",
-    "static/media/unity_game.png": "/static/media/unity_game.fab3b9245fe06ae33fb1.png",
-    "static/media/MERN_Calc.png": "/static/media/MERN_Calc.bc13fcb33da494104246.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.0bfa7861.css.map": "/static/css/main.0bfa7861.css.map",
-    "main.ab50a06d.js.map": "/static/js/main.ab50a06d.js.map",
-    "453.ee5807c3.chunk.js.map": "/static/js/453.ee5807c3.chunk.js.map"
+    "main.css": "/Personal-Website/static/css/main.b6de1e26.css",
+    "main.js": "/Personal-Website/static/js/main.22cd1c04.js",
+    "static/js/453.ee5807c3.chunk.js": "/Personal-Website/static/js/453.ee5807c3.chunk.js",
+    "static/media/about_alia.png": "/Personal-Website/static/media/about_alia.b0f315171b2b9d79bacd.png",
+    "static/media/artwork6.png": "/Personal-Website/static/media/artwork6.ec9c38ff1b591b318824.png",
+    "static/media/artwork1.png": "/Personal-Website/static/media/artwork1.04519c450fad5b40fd26.png",
+    "static/media/artwork7.png": "/Personal-Website/static/media/artwork7.05dbd68cc73770e4ed66.png",
+    "static/media/artwork5.png": "/Personal-Website/static/media/artwork5.859ca665995af6d23056.png",
+    "static/media/artwork3.png": "/Personal-Website/static/media/artwork3.41d6b044dcbe92b871ff.png",
+    "static/media/artwork4.png": "/Personal-Website/static/media/artwork4.3bf1b706bd7535ad9f03.png",
+    "static/media/artwork2.png": "/Personal-Website/static/media/artwork2.7f80b5496fa4ba211826.png",
+    "static/media/unity_game.png": "/Personal-Website/static/media/unity_game.fab3b9245fe06ae33fb1.png",
+    "static/media/MERN_Calc.png": "/Personal-Website/static/media/MERN_Calc.bc13fcb33da494104246.png",
+    "static/media/slick.svg": "/Personal-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Personal-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Personal-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Personal-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Personal-Website/index.html",
+    "main.b6de1e26.css.map": "/Personal-Website/static/css/main.b6de1e26.css.map",
+    "main.22cd1c04.js.map": "/Personal-Website/static/js/main.22cd1c04.js.map",
+    "453.ee5807c3.chunk.js.map": "/Personal-Website/static/js/453.ee5807c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bfa7861.css",
-    "static/js/main.ab50a06d.js"
+    "static/css/main.b6de1e26.css",
+    "static/js/main.22cd1c04.js"
   ]
 }
