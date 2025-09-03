@@ -1,0 +1,61 @@
+.artwork_tag_line{
+    background-color: #E42278;
+}
+
+.artwork_tag{
+    margin-left:40vw;
+    height:7vh;
+    width: 20vw;
+    background-color:   rgb(31, 30, 30);
+    border-radius: 20px 20px 0 0;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vw;
+}
+
+.artwork_content{
+    display: flex;
+    background-color: rgb(31, 30, 30);
+    padding:10vh;
+    flex-direction: column;
+}
+
+
+.artwork_content_intro{
+    color:white;
+    font-size: 3vh;
+    margin-bottom: 5vh;
+}
+
+.bigger{
+    font-size:5vh;
+    padding:0 1vw
+}
+
+.slick-slider{
+    background-color: white;
+    height:78vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.slick-slide img{
+    display: flex;
+    padding:2vh;
+    justify-self: center;
+    align-self: center;
+    height: 75vh;
+    width:auto; 
+  object-fit: contain; 
+}
+
+
+.dots{
+  background-color:white;
+}
+

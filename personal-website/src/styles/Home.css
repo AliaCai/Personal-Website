@@ -1,0 +1,33 @@
+.home{
+ display: flex;
+ flex-direction: column;
+ background-color: #E42278;
+ height:85vh;
+ align-items: center;
+ justify-content: center;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 5vh;
+}
+
+.home_l1{
+  font-size: 4vh;
+}
+
+.home_l2{
+  font-size: 35vh;
+  text-shadow: 5px 5px white;
+}
+
+
+.home_l3{
+  font-size: 1rem;
+}
+
+.home_l3 a.home_l3_connect{
+    text-decoration: underline;
+
+}
+
+
